@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shield.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="moving shield0000" x="0" y="0" width="203" height="59" frameX="0" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0001" x="0" y="0" width="203" height="59" frameX="0" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0002" x="0" y="0" width="203" height="59" frameX="-2" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0003" x="0" y="0" width="203" height="59" frameX="-7" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0004" x="0" y="0" width="203" height="59" frameX="-18" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0005" x="0" y="0" width="203" height="59" frameX="-36" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0006" x="0" y="0" width="203" height="59" frameX="-62" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0007" x="0" y="0" width="203" height="59" frameX="-99" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0008" x="0" y="0" width="203" height="59" frameX="-149" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0009" x="0" y="0" width="203" height="59" frameX="-212" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0010" x="0" y="0" width="203" height="59" frameX="-286" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0011" x="0" y="0" width="203" height="59" frameX="-350" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0012" x="0" y="0" width="203" height="59" frameX="-399" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0013" x="0" y="0" width="203" height="59" frameX="-436" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0014" x="0" y="0" width="203" height="59" frameX="-462" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0015" x="0" y="0" width="203" height="59" frameX="-480" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0016" x="0" y="0" width="203" height="59" frameX="-491" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0017" x="0" y="0" width="203" height="59" frameX="-496" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0018" x="0" y="0" width="203" height="59" frameX="-498" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0019" x="0" y="0" width="203" height="59" frameX="-499" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0020" x="0" y="0" width="203" height="59" frameX="-496" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0021" x="0" y="0" width="203" height="59" frameX="-491" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0022" x="0" y="0" width="203" height="59" frameX="-484" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0023" x="0" y="0" width="203" height="59" frameX="-474" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0024" x="0" y="0" width="203" height="59" frameX="-459" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0025" x="0" y="0" width="203" height="59" frameX="-440" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0026" x="0" y="0" width="203" height="59" frameX="-414" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0027" x="0" y="0" width="203" height="59" frameX="-379" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0028" x="0" y="0" width="203" height="59" frameX="-332" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0029" x="0" y="0" width="203" height="59" frameX="-273" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0030" x="0" y="0" width="203" height="59" frameX="-208" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0031" x="0" y="0" width="203" height="59" frameX="-150" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0032" x="0" y="0" width="203" height="59" frameX="-104" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0033" x="0" y="0" width="203" height="59" frameX="-71" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0034" x="0" y="0" width="203" height="59" frameX="-47" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0035" x="0" y="0" width="203" height="59" frameX="-29" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0036" x="0" y="0" width="203" height="59" frameX="-17" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0037" x="0" y="0" width="203" height="59" frameX="-8" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0038" x="0" y="0" width="203" height="59" frameX="-3" frameY="0" frameWidth="702" frameHeight="59"/>
+	<SubTexture name="moving shield0039" x="0" y="0" width="203" height="59" frameX="0" frameY="0" frameWidth="702" frameHeight="59"/>
+</TextureAtlas>

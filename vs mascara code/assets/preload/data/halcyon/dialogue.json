@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can I help you?"
+		},
+		{
+			"sound": "Bop beep skdoo",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop beep skdoo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend! Hi!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo?! Mascara?! That you???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why yes, I’m glad you remembered me!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, I’m guessing you want to sing by that smug face of yours right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Naturally."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mkay, let’s go!"
+		}
+	]
+}

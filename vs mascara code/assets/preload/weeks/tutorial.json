@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Halcyon", "mascara", [175, 102, 206]],
+		["Exhausting", "mascara", [175, 102, 206]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

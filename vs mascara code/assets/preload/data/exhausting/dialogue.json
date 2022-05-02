@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ah, that was wonderful.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara"
+		},
+		{
+			"expression": "thinking",
+			"text": "(This feels all wrong.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara"
+		},
+		{
+			"expression": "thinking",
+			"text": "(It has to be.. The demon that I've been looking for.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara"
+		},
+		{
+			"expression": "thinking",
+			"text": "(Though, I wonder how I should approach?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara"
+		},
+		{
+			"expression": "thinking",
+			"text": "(Especially with bf around…)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara"
+		},
+		{
+			"expression": "talk",
+			"text": "Yo Mascara, you ok?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "It's nothing. Perhaps another song will clear my mind?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mascara"
+		}
+	]
+}

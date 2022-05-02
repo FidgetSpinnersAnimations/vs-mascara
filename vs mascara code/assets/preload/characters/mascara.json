@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				24,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				39
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				15
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mascara",
+	"position": [
+		-50,
+		110
+	],
+	"healthicon": "mascara",
+	"flip_x": false,
+	"healthbar_colors": [
+		207,
+		163,
+		251
+	],
+	"camera_position": [
+		-190,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
